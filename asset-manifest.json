@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/2022-mchacks/static/css/main.6c888941.css",
-    "main.js": "/2022-mchacks/static/js/main.6634ff54.js",
-    "index.html": "/2022-mchacks/index.html",
-    "main.6c888941.css.map": "/2022-mchacks/static/css/main.6c888941.css.map",
-    "main.6634ff54.js.map": "/2022-mchacks/static/js/main.6634ff54.js.map"
+    "main.css": "/static/css/main.6c888941.css",
+    "main.js": "/static/js/main.a5b5e5d8.js",
+    "index.html": "/index.html",
+    "main.6c888941.css.map": "/static/css/main.6c888941.css.map",
+    "main.a5b5e5d8.js.map": "/static/js/main.a5b5e5d8.js.map"
   },
   "entrypoints": [
     "static/css/main.6c888941.css",
-    "static/js/main.6634ff54.js"
+    "static/js/main.a5b5e5d8.js"
   ]
 }
